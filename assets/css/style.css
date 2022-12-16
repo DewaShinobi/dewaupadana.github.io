@@ -1047,15 +1047,16 @@ p {
 }
 
 .contact-details {
-  list-style: none;
+/*   list-style: none; */
+  color: #898989;
   margin: 0;
   padding: 0;
   margin-bottom: 25px;
 }
 
-.contact-details li {
+/* .contact-details li {
   padding-bottom: 10px;
-}
+} */
 
 #contact input,
 #contact textarea {
